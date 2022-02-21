@@ -8,7 +8,7 @@ export function moneyFormatter(x) {
 }
 
 export function moneyNoFormat(x) {
-  return "£" + x;
+  return "$" + x;
 }
 
 export function remove00ForCurrency(number) {

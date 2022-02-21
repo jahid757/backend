@@ -178,7 +178,7 @@ const NewTrade = props => {
                                                     value={trade && trade.amount}
                                                     required
                                                 />
-                                                <p style={{ color: "grey", fontSize: "12px", marginLeft: "10px", paddingTop: "5px" }}>{availableDeposit !== null && `Deposit available to invest: £${availableDeposit}`}</p>
+                                                <p style={{ color: "grey", fontSize: "12px", marginLeft: "10px", paddingTop: "5px" }}>{availableDeposit !== null && `Deposit available to invest: $${availableDeposit}`}</p>
                                             </div>
                                         </Col>
                                     </Row>

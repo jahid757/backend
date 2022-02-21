@@ -21,7 +21,7 @@ const PrivateEquityTableRow = ({ userShare }) => {
         const obj = JSON.parse(localStorage.getItem("authUser"))
         console.log("Creating userShare sale allocation for: something");
 
-        var overallProfitLoss = parseFloat(userShare.profitLoss.replace(/£/g, ""));
+        var overallProfitLoss = parseFloat(userShare.profitLoss.replace(/$/g, ""));
         var profitLoss = (overallProfitLoss / userShare.sharesNumber) * v.sharesNumber
     
         const shareSale = {

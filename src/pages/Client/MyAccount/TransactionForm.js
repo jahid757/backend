@@ -113,7 +113,7 @@ const TransactionForm = ({ withdrawal, availableDeposit }) => {
             {!withdrawal && <p>Please proceed to submit your deposit request, you will receive an email notification containing the account details and your unique client reference if your request is successful.</p>}
             <AvForm onValidSubmit={handleSubmit} >
                 <div className="mb-3">
-                    <Label htmlFor="amount">Amount (£, $, €, ¥)</Label>
+                    <Label htmlFor="amount">Amount ($, $, €, ¥)</Label>
                     <AvField
                         type="text"
                         className="form-control"

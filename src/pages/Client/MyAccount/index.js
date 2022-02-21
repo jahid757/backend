@@ -78,7 +78,7 @@ const ClientTransactions = props => {
 
   const modalData = {
     title: "Make new investment",
-    message: `Confirm using your deposited funds to make an investment into this fund. Invest £10,000 from deposits into Bitcoin Fund.`,
+    message: `Confirm using your deposited funds to make an investment into this fund. Invest $10,000 from deposits into Bitcoin Fund.`,
     closeModalFunc: () => {
         setModal(false);
         // Do the trade thing.
