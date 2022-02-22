@@ -29,7 +29,7 @@ const PagesFaqs = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Security | Example Group Ltd</title>
+          <title>Security | Mizuho Group Ltd</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}

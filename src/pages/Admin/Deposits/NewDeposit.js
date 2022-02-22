@@ -109,7 +109,7 @@ const NewDeposit = props => {
         <React.Fragment>
             <div className="page-content">
                 <MetaTags>
-                    <title>Example Group Ltd | Admin Deposits</title>
+                    <title>Mizuho Group Ltd | Admin Deposits</title>
                 </MetaTags>
                 <Container fluid>
                     {/* Render Breadcrumb */}

@@ -42,7 +42,7 @@ const Login = props => {
     return (
         <React.Fragment>
             <MetaTags>
-                <title>Login | Example Group Ltd</title>
+                <title>Login | Mizuho Group Ltd</title>
             </MetaTags>
             <div className="home-btn d-none d-sm-block">
                 <Link to="/" className="text-dark">
@@ -58,7 +58,7 @@ const Login = props => {
                                     <Row>
                                         <Col xs={7}>
                                             <div className="p-4">
-                                                <h5 style={{ color: 'white' }}>Example Group Portal.</h5>
+                                                <h5 style={{ color: 'white' }}>Mizuho Group Portal.</h5>
                                                 <p style={{ color: 'white', margin: 0 }}>Welcome back.</p>
                                             </div>
                                         </Col>
@@ -157,7 +157,7 @@ const Login = props => {
                                 </CardBody>
                             </Card>
                             <div className="mt-5 text-center">
-                                <p>© {new Date().getFullYear()} Example Group Ltd</p>
+                                <p>© {new Date().getFullYear()} Mizuho Group Ltd</p>
                             </div>
                         </Col>
                     </Row>

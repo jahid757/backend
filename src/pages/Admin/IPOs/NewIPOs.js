@@ -110,7 +110,7 @@ const NewIpo = props => {
         <React.Fragment>
             <div className="page-content">
                 <MetaTags>
-                    <title>Admin IPO | Example Group Ltd</title>
+                    <title>Admin IPO | Mizuho Group Ltd</title>
                 </MetaTags>
                 <Container fluid>
                     {/* Render Breadcrumb */}

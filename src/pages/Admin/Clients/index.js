@@ -44,7 +44,7 @@ const ClientTransactions = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Example Group Ltd | Admin Dashboard</title>
+          <title>Mizuho Group Ltd | Admin Dashboard</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumb */}

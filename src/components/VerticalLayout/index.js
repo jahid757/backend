@@ -50,7 +50,7 @@ class Layout extends Component {
     // let currentage = this.capitalizeFirstLetter(this.props.location.pathname)
 
     // document.title =
-    //   currentage + " | Example Group Ltd"
+    //   currentage + " | Mizuho Group Ltd"
     if (this.props.leftSideBarTheme) {
       this.props.changeSidebarTheme(this.props.leftSideBarTheme)
     }

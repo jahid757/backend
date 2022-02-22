@@ -9,10 +9,10 @@ const Footer = () => {
           <Row>
             <Col md={6}>
               {/* <div className="text-sm-end d-none d-sm-block">
-                Example Group Ltd
+                Mizuho Group Ltd
               </div> */}
             </Col>
-            <Col md={6} style={{ display: "flex", justifyContent: "flex-end" }}>{new Date().getFullYear()} © Example Group Ltd.</Col>
+            <Col md={6} style={{ display: "flex", justifyContent: "flex-end" }}>{new Date().getFullYear()} © Mizuho Group Ltd.</Col>
           </Row>
         </Container>
       </footer>

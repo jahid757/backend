@@ -128,7 +128,7 @@ const ClientDashboard = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Example Group Ltd</title>
+          <title>Mizuho Group Ltd</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumb */}

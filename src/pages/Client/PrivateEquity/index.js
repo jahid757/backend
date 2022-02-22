@@ -48,7 +48,7 @@ const ClientDeposits = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Example Group Ltd | Private Equity</title>
+          <title>Mizuho Group Ltd | Private Equity</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumb */}

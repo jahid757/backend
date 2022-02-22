@@ -42,7 +42,7 @@ const ClientNewDeposit = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Example Group Ltd | Request Deposit</title>
+          <title>Mizuho Group Ltd | Request Deposit</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumb */}

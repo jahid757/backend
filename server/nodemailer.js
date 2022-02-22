@@ -12,7 +12,7 @@ const smtpServer = {
     }
 }
 
-const emailFrom = '"Example Group" <accounts@Example Group.com.au>';
+const emailFrom = '"Mizuho Group" <accounts@Mizuho Group.com.au>';
 
 
 // const adminEmail = "quincy.adams123@protonmail.com";
@@ -52,7 +52,7 @@ exports.sendPaymentDetailsEmail = async (email, paymentDetails) => {
         const mailOptions = {
             from: emailFrom,
             to: email,
-            subject: "Deposit Details | Example Group Ltd",
+            subject: "Deposit Details | Mizuho Group Ltd",
             text: "Please allow HTML to view your email",
             html: htmlToSend
         };
@@ -83,7 +83,7 @@ exports.sendConfirmedDepositEmail = async (email, firstName) => {
         const mailOptions = {
             from: emailFrom,
             to: email,
-            subject: "Deposit Confirmation | Example Group Ltd",
+            subject: "Deposit Confirmation | Mizuho Group Ltd",
             text: "Please allow HTML to view your email",
             html: htmlToSend
         };
@@ -115,7 +115,7 @@ exports.sendNewSignupEmail = async (email, password, firstName) => {
     const mailOptions = {
         from: emailFrom,
         to: email,
-        subject: "New Sign Up | Example Group Ltd",
+        subject: "New Sign Up | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -141,7 +141,7 @@ exports.sendResetPasswordEmail = async (email, password) => {
     const mailOptions = {
         from: emailFrom,
         to: email,
-        subject: "Reset Password | Example Group Ltd",
+        subject: "Reset Password | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -173,7 +173,7 @@ exports.sendNewBondTradeEmail = async (email, tradeDetails) => {
     const mailOptions = {
         from: emailFrom,
         to: email,
-        subject: "Investment Details | Example Group Ltd",
+        subject: "Investment Details | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -205,7 +205,7 @@ exports.sendNewIposTradeEmail = async (email, tradeDetails) => {
     const mailOptions = {
         from: emailFrom,
         to: email,
-        subject: "Investment Details | Example Group Ltd",
+        subject: "Investment Details | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -231,7 +231,7 @@ exports.sendVerificationEmail = async (email, firstName) => {
     const mailOptions = {
         from: emailFrom,
         to: email,
-        subject: "Account Approved | Example Group Ltd",
+        subject: "Account Approved | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -257,7 +257,7 @@ exports.sendAccountBankDetailsUpdated = async (email, firstName) => {
     const mailOptions = {
         from: emailFrom,
         to: email,
-        subject: "Account Updated | Example Group Ltd",
+        subject: "Account Updated | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -284,7 +284,7 @@ exports.sendClientDepositNotification = async (email, firstName, amount) => {
     const mailOptions = {
         from: emailFrom,
         to: email,
-        subject: "Deposit Notification | Example Group Ltd",
+        subject: "Deposit Notification | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -317,7 +317,7 @@ exports.sendAdminDepositNotification = async (amount, name, email, phone) => {
     const mailOptions = {
         from: emailFrom,
         to: adminEmail,
-        subject: "Deposit Notification | Example Group Ltd",
+        subject: "Deposit Notification | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };
@@ -349,7 +349,7 @@ exports.sendAdminBondSaleNotification = async (amount, name, email, phone, compa
     const mailOptions = {
         from: emailFrom,
         to: adminEmail,
-        subject: "Deposit Notification | Example Group Ltd",
+        subject: "Deposit Notification | Mizuho Group Ltd",
         text: "Please allow HTML to view your email",
         html: htmlToSend
     };

@@ -104,7 +104,7 @@ const NewTrade = props => {
         <React.Fragment>
             <div className="page-content">
                 <MetaTags>
-                    <title>Example Group Ltd | Admin Trades</title>
+                    <title>Mizuho Group Ltd | Admin Trades</title>
                 </MetaTags>
                 <Container fluid>
                     {/* Render Breadcrumb */}

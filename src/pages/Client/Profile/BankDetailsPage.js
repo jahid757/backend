@@ -187,11 +187,11 @@ const BankDetails = props => {
         <React.Fragment>
             <div className="page-content">
                 <MetaTags>
-                    <title>Bank Details | Example Group Ltd</title>
+                    <title>Bank Details | Mizuho Group Ltd</title>
                 </MetaTags>
                 <Container fluid>
                     {/* Render Breadcrumb */}
-                    <Breadcrumb title="Example Group" breadcrumbItem="Profile" />
+                    <Breadcrumb title="Mizuho Group" breadcrumbItem="Profile" />
 
                     <Row>
                         <Col lg="12">

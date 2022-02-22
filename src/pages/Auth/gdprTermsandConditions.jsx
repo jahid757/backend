@@ -29,7 +29,7 @@ const GdprTermsAndConditions = () => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Terms and Conditions | Example Group Ltd</title>
+          <title>Terms and Conditions | Mizuho Group Ltd</title>
         </MetaTags>
         <Container fluid>
           {/* Render Breadcrumbs */}
@@ -44,7 +44,7 @@ const GdprTermsAndConditions = () => {
                     <h5 className="font-size-15">
                         AGREEMENT TO TERMS
                     </h5>
-                    <p>These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and TEK Investment Group Limited Trading As Example Group, doing business as Example Group ("Example Group," “we," “us," or “our”), concerning your access to and use of the https://lseequity.com website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). We are registered inEngland and have our registered office at 38 Craven Street, London, London WC2N 5NG. You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.</p>
+                    <p>These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and TEK Investment Group Limited Trading As Mizuho Group, doing business as Mizuho Group ("Mizuho Group," “we," “us," or “our”), concerning your access to and use of the https://lseequity.com website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). We are registered inEngland and have our registered office at 38 Craven Street, London, London WC2N 5NG. You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.</p>
                     
                     <p>Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use from time to time. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our Site so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.</p>
                     
@@ -179,7 +179,7 @@ const GdprTermsAndConditions = () => {
                         GOVERNING LAW
                     </h5>
 
-                    <p>These conditions are governed by and interpreted following the laws of  the United Kingdom, and the use of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law of your country of residence. TEK Investment Group Limited Trading As Example Group and yourself both agree to submit to the non-exclusive jurisdiction of the courts of London, which means that you may make a claim to defend your consumer protection rights in regards to these Conditions of Use in the United Kingdom, or in the EU country in which you reside.</p>
+                    <p>These conditions are governed by and interpreted following the laws of  the United Kingdom, and the use of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law of your country of residence. TEK Investment Group Limited Trading As Mizuho Group and yourself both agree to submit to the non-exclusive jurisdiction of the courts of London, which means that you may make a claim to defend your consumer protection rights in regards to these Conditions of Use in the United Kingdom, or in the EU country in which you reside.</p>
 
                    
                     <h5 className="font-size-15">
@@ -249,12 +249,12 @@ const GdprTermsAndConditions = () => {
 
                     <p>
                         <b>
-                        TEK Investment Group Limited Trading As Example Group<br />
+                        TEK Investment Group Limited Trading As Mizuho Group<br />
                         38 Craven Street<br />
                         London, London WC2N 5NG<br />
                         England<br />
                         Phone: 0800 102 6320<br />
-                        info@Example Group.com.au<br />
+                        info@Mizuho Group.com.au<br />
                         </b>
                     </p>
 

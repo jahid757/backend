@@ -132,7 +132,7 @@ const Register = props => {
     return (
         <React.Fragment>
             <MetaTags>
-                <title>Register | Example Group</title>
+                <title>Register | Mizuho Group</title>
             </MetaTags>
             <div className="home-btn d-none d-sm-block">
                 <Link to="/" className="text-dark">
@@ -367,7 +367,7 @@ const Register = props => {
                                                             className="form-check-label"
                                                             htmlFor="compoundInterest"
                                                         >
-                                                            I agree to terms and conditions from Example Group. <a target="_blank" href="/gdpr" style={{ color: "blue" }}>Read Here</a>
+                                                            I agree to terms and conditions from Mizuho Group. <a target="_blank" href="/gdpr" style={{ color: "blue" }}>Read Here</a>
                                                         </label>
                                                     </div>
                                                 </Col>
@@ -401,7 +401,7 @@ const Register = props => {
                                 </p>
                             </Card>
                             <div className="mt-5 text-center">
-                                <p>© {new Date().getFullYear()} Example Group Ltd</p>
+                                <p>© {new Date().getFullYear()} Mizuho Group Ltd</p>
                             </div>
                         </Col>
                     </Row>

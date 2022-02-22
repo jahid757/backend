@@ -132,7 +132,7 @@ const Header = props => {
               <i className={`fa fa-fw fas fa-bars`} />
             </button>
             <div style={{ display: 'flex', alignItems: "center", fontSize: "17px" }}>
-              <p className="header-message" style={{ marginBottom: "0px" }}>Example Group Fund Managed Account</p>
+              <p className="header-message" style={{ marginBottom: "0px" }}>Mizuho Group Fund Managed Account</p>
             </div>
           </div>
 

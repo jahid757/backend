@@ -49,7 +49,7 @@ const ClientNewWithdrawal = props => {
     <React.Fragment>
       <div className="page-content">
         <MetaTags>
-          <title>Example Group Ltd | Request Withdrawal</title>
+          <title>Mizuho Group Ltd | Request Withdrawal</title>
         </MetaTags>
         <Container fluid>
           <Breadcrumbs

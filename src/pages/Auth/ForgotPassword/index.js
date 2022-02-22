@@ -37,7 +37,7 @@ const ForgetPasswordPage = props => {
   return (
     <React.Fragment>
      <MetaTags>
-          <title>Forget Password | Example Group Ltd</title>
+          <title>Forget Password | Mizuho Group Ltd</title>
         </MetaTags>
       <div className="home-btn d-none d-sm-block">
         <Link to="/" className="text-dark">
@@ -119,7 +119,7 @@ const ForgetPasswordPage = props => {
                     Login
                   </Link>{" "}
                 </p>
-                <p>© {new Date().getFullYear()} Example Group Ltd.</p>
+                <p>© {new Date().getFullYear()} Mizuho Group Ltd.</p>
               </div>
             </Col>
           </Row>
