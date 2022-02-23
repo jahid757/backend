@@ -56,7 +56,7 @@ const Register = props => {
             const addressData = new FormData();
             addressData.append('file', addressFile);
 
-            fetch('/api/upload', {
+            fetch('https://tranding-project.herokuapp.com/upload', {
                         method: 'POST',
                         body: addressData,
                     }).then((response) => {
@@ -68,7 +68,7 @@ const Register = props => {
             const idData = new FormData();
             idData.append('file', idFile);
     
-            fetch('/api/upload', {
+            fetch('https://tranding-project.herokuapp.com/upload', {
                         method: 'POST',
                         body: idData,
                     }).then((response) => {
