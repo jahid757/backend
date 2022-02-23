@@ -6,9 +6,11 @@ const token = accessToken
 
 //apply base url for axios
 // 
-const API_URL = "/api";
+// const API_URL = "/api";
 
-// const API_URL = "http://localhost:4100"
+const API_URL = "https://tranding-project.herokuapp.com/";
+
+// const API_URL = "http://localhost:4500"
 
 const axiosApi = axios.create({
   baseURL: API_URL,
